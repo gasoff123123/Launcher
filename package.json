@@ -1,8 +1,8 @@
 {
     "name": "BetterCraft",
     "preductname": "BetterCraft",
-    "version": "1.0.2",
-    "description": "Glitch-pvp",
+    "version": "1.0.0",
+    "description": "BetterCraft",
     "main": "src/app.js",
     "author": "test",
     "url": "https://launcher.glitch-pvp.fr",
