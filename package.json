@@ -1,7 +1,7 @@
 {
     "name": "Glitchpvp",
     "preductname": "Glitch-pvp",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Glitch-pvp",
     "main": "src/app.js",
     "author": "test",
