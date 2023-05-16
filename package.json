@@ -1,6 +1,6 @@
 {
-    "name": "Glitchpvp",
-    "preductname": "Glitch-pvp",
+    "name": "BetterCraft",
+    "preductname": "BetterCraft",
     "version": "1.0.2",
     "description": "Glitch-pvp",
     "main": "src/app.js",
